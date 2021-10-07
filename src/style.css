@@ -1,0 +1,45 @@
+body{
+    background-image:url(/img/fundo.png);
+   background-size:cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.texto{
+    font-size: 26px;
+    margin-left: 12px;
+    margin-right: 12px;
+    color: black;
+    border-radius: 5px;
+    width: 750px;
+    height: 40px;
+    margin-top: 15px;
+    background-color: white;
+    padding-left: 5px;
+    padding-top: 3px;
+}
+
+.botao{
+    border: 3px solid rgb(40, 27, 108);
+    margin-top: 10px;
+    margin-left: 12px;
+    font-size: 20px;
+    border-radius: 5px;
+    width: 135px;
+    height: 30px;
+}
+
+.botao:hover{
+    background-color: rgba(0, 195, 255, 0.418);
+}
+
+#fundo{
+    border: 3px solid rgba(255, 0, 0, 0.733);
+    background: rgba(0, 0, 0, 0.8);
+	position: absolute;
+    color: white;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	border-radius: 15px;
+		
+}
