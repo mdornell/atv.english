@@ -10,7 +10,7 @@ body{
     margin-right: 12px;
     color: black;
     border-radius: 5px;
-    width: 750px;
+    width: 800px;
     height: 40px;
     margin-top: 15px;
     background-color: white;
@@ -35,11 +35,10 @@ body{
 #fundo{
     border: 3px solid rgba(255, 0, 0, 0.733);
     background: rgba(0, 0, 0, 0.8);
-	position: absolute;
+    position: absolute;
     color: white;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-	border-radius: 15px;
-		
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 15px;		
 }
